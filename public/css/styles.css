@@ -128,3 +128,36 @@ main {
 .icon-btn.delete:hover {
     color: #b02130; /* Cor vermelha ao passar o mouse */
 }
+
+main h2, p {
+    text-align: center;
+    color: #333;
+} 
+
+body, main {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main, p {
+    font-size: 1.5rem;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+#MB {
+    margin-top: 2.5rem;
+}
+
+#pL3 {
+    margin-top: 17rem;
+}
+
+#pL1{
+    margin-top: 13.5rem;
+}
